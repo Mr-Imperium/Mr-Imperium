@@ -1,6 +1,4 @@
-![](https://github.com/user-attachments/assets/abd3d531-be04-48a7-a266-895baef526bb)
-<h1 align="center">Hi 👋, I'm Faraz Shamim</h1>
-<h3 align="center">A Medical Student and an ML Enthusiast.</h3>
+![](Intro.gif)
 
 # 💫 About Me:
 💻 Currently learning: Python, R, Javascript, MATLAB , AI, and Machine learning.<br>🔍 Exploring ways to apply technology in medicine to improve patient care and healthcare solutions.<br>🌱 Open to collaborations, especially in healthcare tech projects and AI applications!
