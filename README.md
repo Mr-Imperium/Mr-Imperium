@@ -1,3 +1,4 @@
+![](https://github.com/user-attachments/assets/abd3d531-be04-48a7-a266-895baef526bb)
 <h1 align="center">Hi 👋, I'm Faraz Shamim</h1>
 <h3 align="center">A Medical Student and an ML Enthusiast.</h3>
 
